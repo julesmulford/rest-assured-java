@@ -1,6 +1,6 @@
 # REST Assured Java API Test Framework
 
-Enterprise-grade REST API test automation framework built with **REST Assured 5** + **Java 21** + **JUnit 5** + **Allure** targeting the [reqres.in](https://reqres.in) public API.
+REST API test automation framework built with **REST Assured 5** + **Java 21** + **JUnit 5** + **Allure** targeting the [reqres.in](https://reqres.in) public API.
 
 Suggested GitHub repository name: `rest-assured-java`
 
